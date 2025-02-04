@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yNVLD8qo3I9HU99Cf2s0JW15AdTKRurklIxjiQd4iJc=",
+  "Source": "QuoteInvoiceAPI",
+  "BasePath": "_content/QuoteInvoiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

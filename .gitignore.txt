@@ -1,0 +1,16 @@
+# Ignore Visual Studio cache files
+.vs/
+.vscode/
+
+# Ignore build and dependency files
+bin/
+obj/
+node_modules/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.cache
+*.log
+*.pid
+*.sln.docstates
